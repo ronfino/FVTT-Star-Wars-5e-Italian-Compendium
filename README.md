@@ -4,7 +4,7 @@
 # **Explanation/Spiegazione**
 
 **ITA**
-Questo è un progetto personale Work in Progress su Foundry Virtual TableTop riguardante la traduzione italiana del compendio di Star Wars 5e con l'utilizzo del modulo [Babele](https://gitlab.com/riccisi/foundryvtt-babele) sviluppato da Simone Ricciardi. Per sfornare una traduzione migliore uso DeepL per tradurre frasi lunghe, Google Translate per trovare le parole corrette e le Wiki fandom di Star Wars per ottenere maggiori informazioni. 
+Questo è un progetto personale attualmente in sviluppo su Foundry Virtual TableTop riguardante la traduzione italiana del compendio di Star Wars 5e con l'utilizzo del modulo [Babele](https://gitlab.com/riccisi/foundryvtt-babele) sviluppato da Simone Ricciardi. Per sfornare una traduzione migliore uso DeepL per tradurre frasi lunghe, Google Translate per trovare le parole corrette e le Wiki fandom di Star Wars per ottenere maggiori informazioni. 
 
 *Potrei commettere degli errori col passare del tempo, se notate qualcosa ditemelo pure!*
 
