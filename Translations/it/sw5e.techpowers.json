@@ -9,7 +9,7 @@
 		{
 			"id": "Acid Dart",
 			"name": "Dardo Acido",
-			"description": "<p>Un dardo verde scintillante si dirige verso un bersaglio a portata di tiro ed esplode in uno spruzzo di acido. Effettua un attacco tecnico a distanza contro il bersaglio. Se viene colpito, il bersaglio subisce [[/r 4d4]] danni da acido immediatamente e [[/r 2d4]] danni da acido alla fine del suo prossimo turno. Se lo manchi, il dardo spruzza il bersaglio di acido per la metà del danno iniziale e nessun danno alla fine del suo prossimo turno.</p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tech di 3° livello o superiore, il danno (sia iniziale che successivo) aumenta di [[/r 1d4]] per ogni livello di slot superiore al 2°.</p>"
+			"description": "<p>Un dardo verde scintillante si dirige verso un bersaglio a portata di tiro ed esplode in uno spruzzo di acido. Effettua un attacco tecnico a distanza contro il bersaglio. Se viene colpito, il bersaglio subisce [[/r 4d4]] danni da acido immediatamente e [[/r 2d4]] danni da acido alla fine del suo prossimo turno. Se lo manchi, il dardo spruzza il bersaglio di acido per la metà del danno iniziale e nessun danno alla fine del suo prossimo turno.</p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tech di 3° livello o superiore, il danno (sia iniziale che successivo) aumenta di [[/r 1d4]] per ogni livello di slot superiore al 2°.</p>"
 		},
 		{
 			"id": "Acid Splash",
@@ -29,7 +29,7 @@
 		{
 			"id": "Aid Droid",
 			"name": "Soccorri Droide",
-			"description": "<p>Scegli un droide o un costrutto che puoi vedere nel raggio d'azione. Il bersaglio può usare immediatamente la sua reazione per recuperare punti ferita pari a [[/r 1d6]] </p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, la guarigione aumenta di [[/r 1d6]] per ogni livello di slot superiore al 1°.</p>"
+			"description": "<p>Scegli un droide o un costrutto che puoi vedere nel raggio d'azione. Il bersaglio può usare immediatamente la sua reazione per recuperare punti ferita pari a [[/r 1d6]] </p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, la guarigione aumenta di [[/r 1d6]] per ogni livello di slot superiore al 1°.</p>"
 		},
 		{
 			"id": "Alarm",
@@ -64,7 +64,7 @@
 		{
 			"id": "Bacta Pack",
 			"name": "Pacco di Bacta",
-			"description": "<p>Crei un pacchetto luminescente di bacta in qualsiasi spazio, occupato o non occupato, entro il raggio d'azione. Il branco rimane nel suo spazio finché non viene attivato da una creatura a tua scelta. Se lo spazio scelto è occupato da una creatura da te designata, questa può usare la sua reazione per attivare immediatamente il pacchetto; altrimenti, una creatura entro 5 piedi dal pacchetto può usare un'azione bonus per toccarlo e attivarlo.</p>\n<p>Quando il pacchetto viene attivato da una creatura designata, questa recupera punti ferita pari a [[/r 1d6]] + il tuo modificatore di techcasting, e il pacchetto viene consumato. Se il potere termina prima che il pacchetto sia stato attivato, esso diventa inutile e si disintegra. Questo potere non ha effetto su droidi o costrutti.</p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, puoi aumentare la guarigione di un singolo pacchetto di [[/r 1d6]] per ogni livello di slot superiore al 1°, o creare un altro pacchetto in uno spazio separato, con un ulteriore pacchetto per ogni livello di slot superiore al 1°.</p>"
+			"description": "<p>Crei un pacchetto luminescente di bacta in qualsiasi spazio, occupato o non occupato, entro il raggio d'azione. Il branco rimane nel suo spazio finché non viene attivato da una creatura a tua scelta. Se lo spazio scelto è occupato da una creatura da te designata, questa può usare la sua reazione per attivare immediatamente il pacchetto; altrimenti, una creatura entro 5 piedi dal pacchetto può usare un'azione bonus per toccarlo e attivarlo.</p>\n<p>Quando il pacchetto viene attivato da una creatura designata, questa recupera punti ferita pari a [[/r 1d6]] + il tuo modificatore di techcasting, e il pacchetto viene consumato. Se il potere termina prima che il pacchetto sia stato attivato, esso diventa inutile e si disintegra. Questo potere non ha effetto su droidi o costrutti.</p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, puoi aumentare la guarigione di un singolo pacchetto di [[/r 1d6]] per ogni livello di slot superiore al 1°, o creare un altro pacchetto in uno spazio separato, con un ulteriore pacchetto per ogni livello di slot superiore al 1°.</p>"
 		},
 		{
 			"id": "Ballistic Shield",
@@ -74,12 +74,12 @@
 		{
 			"id": "Bestow Virus",
 			"name": "Conferisci Virus",
-			"description": "<p>Se tocchi un droide, un costrutto o una creatura con un focus sulla tecnologia, questa dovrà riuscire in un tiro salvezza di Intelligenza o ricevere una maledizione basata sulla tecnologia per la durata del potere. Quando lanci questo potere, scegli la natura della maledizione tra le seguenti opzioni:</p>\n<ul>\n<li>Scegli un punteggio di abilità. Mentre è maledetto, il bersaglio ha svantaggio nelle prove di abilità e nei tiri salvezza effettuati con quel punteggio.</li>\n<li>Mentre è maledetto, il bersaglio ha svantaggio nei tiri per colpire contro di te.</li>\n<li>Mentre è maledetto, il bersaglio deve effettuare un tiro salvezza di intelligenza all'inizio di ogni suo turno. Se fallisce, spreca la sua azione in quel turno senza fare nulla.</li>\n<li>Mentre il bersaglio è maledetto, i tuoi attacchi e poteri infliggono un danno extra di [[/r 1d8]] fulmine al bersaglio.</li>\n</ul> <p>Un potere di <em>rimuovi virus</em> pone fine a questo effetto. A discrezione del GM, si può scegliere un effetto maledizione alternativo, ma non dovrebbe essere più potente di quelli descritti sopra. Il GM ha l'ultima parola sull'effetto di tale maledizione.</p>\n<p><strong>Overcharge Tech.</strong> Se lanci questo potere usando uno slot tecnologico di 4° livello o superiore, la durata è la concentrazione, fino a 10 minuti. Se usi uno slot tecnico di 5° livello o superiore, la durata è di 8 ore. Se si utilizza uno slot tecnico di 7° livello o superiore, la durata è di 24 ore. Se si utilizza uno slot tecnologico di 9° livello, il potere dura finché non viene dissipato. L'utilizzo di uno slot tecnologico di 5° livello o superiore garantisce una durata che non richiede concentrazione.</p>"
+			"description": "<p>Se tocchi un droide, un costrutto o una creatura con un focus sulla tecnologia, questa dovrà riuscire in un tiro salvezza di Intelligenza o ricevere una maledizione basata sulla tecnologia per la durata del potere. Quando lanci questo potere, scegli la natura della maledizione tra le seguenti opzioni:</p>\n<ul>\n<li>Scegli un punteggio di abilità. Mentre è maledetto, il bersaglio ha svantaggio nelle prove di abilità e nei tiri salvezza effettuati con quel punteggio.</li>\n<li>Mentre è maledetto, il bersaglio ha svantaggio nei tiri per colpire contro di te.</li>\n<li>Mentre è maledetto, il bersaglio deve effettuare un tiro salvezza di intelligenza all'inizio di ogni suo turno. Se fallisce, spreca la sua azione in quel turno senza fare nulla.</li>\n<li>Mentre il bersaglio è maledetto, i tuoi attacchi e poteri infliggono un danno extra di [[/r 1d8]] fulmine al bersaglio.</li>\n</ul> <p>Un potere di <em>rimuovi virus</em> pone fine a questo effetto. A discrezione del GM, si può scegliere un effetto maledizione alternativo, ma non dovrebbe essere più potente di quelli descritti sopra. Il GM ha l'ultima parola sull'effetto di tale maledizione.</p>\n<p><strong>Sovraccarica Tecnologia.</strong> Se lanci questo potere usando uno slot tecnologico di 4° livello o superiore, la durata è la concentrazione, fino a 10 minuti. Se usi uno slot tecnico di 5° livello o superiore, la durata è di 8 ore. Se si utilizza uno slot tecnico di 7° livello o superiore, la durata è di 24 ore. Se si utilizza uno slot tecnologico di 9° livello, il potere dura finché non viene dissipato. L'utilizzo di uno slot tecnologico di 5° livello o superiore garantisce una durata che non richiede concentrazione.</p>"
 		},
 		{
 			"id": "Buffer",
 			"name": "Buffer",
-			"description": "<p>Guadagni [[/r 1d4 + 4]] punti ferita temporanei per la durata. </p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tech di 2° livello o superiore, guadagni 5 punti ferita temporanei aggiuntivi per ogni livello di slot superiore al 1°.</p>"
+			"description": "<p>Guadagni [[/r 1d4 + 4]] punti ferita temporanei per la durata. </p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tech di 2° livello o superiore, guadagni 5 punti ferita temporanei aggiuntivi per ogni livello di slot superiore al 1°.</p>"
 		},
 		{
 			"id": "Cage",
@@ -124,7 +124,7 @@
 		{
 			"id": "Condense/Vaporize",
 			"name": "Condensa/Vaporizza",
-			"description": "<p>In un contenitore aperto, si possono creare fino a 10 galloni di acqua potabile. Puoi anche produrre una pioggia che cade in un cubo di 30 piedi e spegne le fiamme all'aria aperta. Puoi distruggere la stessa quantità di acqua in un contenitore aperto, o distruggere un cubo di nebbia di 30 piedi. </p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tech di 2° livello o superiore, la quantità d'acqua che puoi creare aumenta di 10 galloni, o la dimensione del cubo aumenta di 5 piedi, per ogni livello di slot superiore al 1°.</p>"
+			"description": "<p>In un contenitore aperto, si possono creare fino a 10 galloni di acqua potabile. Puoi anche produrre una pioggia che cade in un cubo di 30 piedi e spegne le fiamme all'aria aperta. Puoi distruggere la stessa quantità di acqua in un contenitore aperto, o distruggere un cubo di nebbia di 30 piedi. </p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tech di 2° livello o superiore, la quantità d'acqua che puoi creare aumenta di 10 galloni, o la dimensione del cubo aumenta di 5 piedi, per ogni livello di slot superiore al 1°.</p>"
 		},
 		{
 			"id": "Contingency",
@@ -149,7 +149,7 @@
 		{
 			"id": "Cryogenic Blast",
 			"name": "Ventata Criogenica",
-			"description": "<p>Rilasci un frammento di energia criogenica contro una creatura nel raggio d'azione. Effettua un attacco tecnico a distanza contro il bersaglio. Se colpito, il bersaglio subisce [[/r 1d10]] danni cinetici. Colpito o mancato, il frammento esplode. Il bersaglio e ogni creatura entro 5 piedi da esso devono riuscire in un tiro salvezza di Destrezza o subire [[/r 2d6]] danni da freddo.</p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, il danno da freddo aumenta di [[/r 1d6]] per ogni livello di slot superiore al 1°.</p>"
+			"description": "<p>Rilasci un frammento di energia criogenica contro una creatura nel raggio d'azione. Effettua un attacco tecnico a distanza contro il bersaglio. Se colpito, il bersaglio subisce [[/r 1d10]] danni cinetici. Colpito o mancato, il frammento esplode. Il bersaglio e ogni creatura entro 5 piedi da esso devono riuscire in un tiro salvezza di Destrezza o subire [[/r 2d6]] danni da freddo.</p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tecnologico di 2° livello o superiore, il danno da freddo aumenta di [[/r 1d6]] per ogni livello di slot superiore al 1°.</p>"
 		},
 		{
 			"id": "Cryogenic Blow",
@@ -164,12 +164,12 @@
 		{
 			"id": "Cryogenic Spray",
 			"name": "Spray Criogenico",
-			"description": "<p>Una ventata di aria fredda erutta da te. Ogni creatura in un cono di 60 piedi deve effettuare un tiro salvezza di Costituzione. Con un tiro salvezza fallito, una creatura prende [[/r 8d8]] danni da freddo e guadagna 1 livello di rallentamento fino all'inizio del tuo prossimo turno. Con un tiro salvezza riuscito, una creatura subisce la metà dei danni e non viene rallentata.</p>\n<p>Una creatura uccisa da questo potere diventa congelata nella carbonite.</p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tech di 6° livello o superiore, il danno aumenta di [[/r 1d8]] per ogni livello di slot superiore al 5°.</p>"
+			"description": "<p>Una ventata di aria fredda erutta da te. Ogni creatura in un cono di 60 piedi deve effettuare un tiro salvezza di Costituzione. Con un tiro salvezza fallito, una creatura prende [[/r 8d8]] danni da freddo e guadagna 1 livello di rallentamento fino all'inizio del tuo prossimo turno. Con un tiro salvezza riuscito, una creatura subisce la metà dei danni e non viene rallentata.</p>\n<p>Una creatura uccisa da questo potere diventa congelata nella carbonite.</p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tech di 6° livello o superiore, il danno aumenta di [[/r 1d8]] per ogni livello di slot superiore al 5°.</p>"
 		},
 		{
 			"id": "Cryogenic Storm",
 			"name": "Temporale Criogenico",
-			"description": "<p>Una tempesta di energia criogenica avvolge il terreno in un cilindro di 20 piedi di raggio e 40 piedi di altezza, centrato su un punto a portata. Ogni creatura nel cilindro deve effettuare un tiro salvezza di Destrezza. Una creatura subisce [[/r 2d8]] danni cinetici e [[/r 4d6]] danni da freddo se fallisce il tiro salvezza, o la metà dei danni se lo supera.</p>\n<p>L'area di effetto della tempesta diventa terreno difficile fino alla fine del tuo prossimo turno. </p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tech di 5° livello o superiore, il danno cinetico aumenta di [[/r 1d8]] per ogni livello di slot superiore al 4°.</p>"
+			"description": "<p>Una tempesta di energia criogenica avvolge il terreno in un cilindro di 20 piedi di raggio e 40 piedi di altezza, centrato su un punto a portata. Ogni creatura nel cilindro deve effettuare un tiro salvezza di Destrezza. Una creatura subisce [[/r 2d8]] danni cinetici e [[/r 4d6]] danni da freddo se fallisce il tiro salvezza, o la metà dei danni se lo supera.</p>\n<p>L'area di effetto della tempesta diventa terreno difficile fino alla fine del tuo prossimo turno. </p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tech di 5° livello o superiore, il danno cinetico aumenta di [[/r 1d8]] per ogni livello di slot superiore al 4°.</p>"
 		},
 		{
 			"id": "Cryogenic Suspension",
@@ -214,7 +214,7 @@
 		{
 			"id": "Destroy Tech",
 			"name": "Distruggi Technologia",
-			"description": "<p>Effettua un attacco tecnologico a distanza contro una creatura nel raggio d'azione. Se viene colpito, il bersaglio subisce [[/r 4d8]] danni da ioni. Inoltre, se il bersaglio ha dei punti tecnologia, deve effettuare un tiro salvezza di Intelligenza. Se il tiro salvezza fallisce, perde 5 punti tecnologia, come se avesse consumato uno slot tecnologico.</p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere con uno slot tecnologico di 4° livello o superiore, il danno ionico aumenta di [[/r 1d8]], e la quantità di punti tecnologia persi aumenta di 1 per ogni livello di slot superiore al 3°.</p>"
+			"description": "<p>Effettua un attacco tecnologico a distanza contro una creatura nel raggio d'azione. Se viene colpito, il bersaglio subisce [[/r 4d8]] danni da ioni. Inoltre, se il bersaglio ha dei punti tecnologia, deve effettuare un tiro salvezza di Intelligenza. Se il tiro salvezza fallisce, perde 5 punti tecnologia, come se avesse consumato uno slot tecnologico.</p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere con uno slot tecnologico di 4° livello o superiore, il danno ionico aumenta di [[/r 1d8]], e la quantità di punti tecnologia persi aumenta di 1 per ogni livello di slot superiore al 3°.</p>"
 		},
 		{
 			"id": "Detect Enhancement",
@@ -234,17 +234,17 @@
 		{
 			"id": "Diminish Tech",
 			"name": "Diminuisci Tecnologia",
-			"description": "<p>Scegli una creatura, un oggetto o un effetto tecnologico nel raggio d'azione. Qualsiasi potere tecnologico di 3° livello o inferiore sul bersaglio termina. Per ogni potere tecnologico di 4° livello o superiore sul bersaglio, effettua una prova di abilità usando la tua capacità di techcasting. La CD è pari a 10 + il livello del potere. In caso di successo, il potere termina.</p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tecnologico di 4° livello o superiore, terminerai automaticamente gli effetti di un potere tecnologico sul bersaglio se il livello del potere è uguale o inferiore al livello dello slot tecnologico che hai usato.</p>"
+			"description": "<p>Scegli una creatura, un oggetto o un effetto tecnologico nel raggio d'azione. Qualsiasi potere tecnologico di 3° livello o inferiore sul bersaglio termina. Per ogni potere tecnologico di 4° livello o superiore sul bersaglio, effettua una prova di abilità usando la tua capacità di techcasting. La CD è pari a 10 + il livello del potere. In caso di successo, il potere termina.</p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tecnologico di 4° livello o superiore, terminerai automaticamente gli effetti di un potere tecnologico sul bersaglio se il livello del potere è uguale o inferiore al livello dello slot tecnologico che hai usato.</p>"
 		},
 		{
 			"id": "Disintegrate",
 			"name": "Disintegra",
-			"description": "<p>Un'esplosione di energia corrosiva viene emessa da te. Scegli un bersaglio entro il raggio d'azione. </p>\n<p>Una creatura bersaglio di questo potere deve effettuare un tiro salvezza di Destrezza. Se il tiro salvezza viene fallito, il bersaglio subisce [[/r 10d6 + 40]] danni da acido. Se questo danno riduce il bersaglio a 0 punti ferita, esso viene disintegrato. Una creatura distrutta in questo modo non può essere rivitalizzata.</p>\n<p>Questo potere disintegra automaticamente un oggetto Grande o più piccolo. Se il bersaglio è un oggetto enorme o più grande, questo potere ne disintegra una porzione di 3 metri cubi. </p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tech di 7° livello o superiore, il danno aumenta di [[/r 3d6]] per ogni livello di slot superiore al 6°.</p>"
+			"description": "<p>Un'esplosione di energia corrosiva viene emessa da te. Scegli un bersaglio entro il raggio d'azione. </p>\n<p>Una creatura bersaglio di questo potere deve effettuare un tiro salvezza di Destrezza. Se il tiro salvezza viene fallito, il bersaglio subisce [[/r 10d6 + 40]] danni da acido. Se questo danno riduce il bersaglio a 0 punti ferita, esso viene disintegrato. Una creatura distrutta in questo modo non può essere rivitalizzata.</p>\n<p>Questo potere disintegra automaticamente un oggetto Grande o più piccolo. Se il bersaglio è un oggetto enorme o più grande, questo potere ne disintegra una porzione di 3 metri cubi. </p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tech di 7° livello o superiore, il danno aumenta di [[/r 3d6]] per ogni livello di slot superiore al 6°.</p>"
 		},
 		{
 			"id": "Disperse Energy",
 			"name": "Disperdi Energia",
-			"description": "<p>Un'esplosione di energia corrosiva viene emessa da te. Scegli un bersaglio entro il raggio d'azione. </p>\n<p>Una creatura bersaglio di questo potere deve effettuare un tiro salvezza di Destrezza. Se il tiro salvezza viene fallito, il bersaglio subisce [[/r 10d6 + 40]] danni da acido. Se questo danno riduce il bersaglio a 0 punti ferita, esso viene disintegrato. Una creatura distrutta in questo modo non può essere rivitalizzata.</p>\n<p>Questo potere disintegra automaticamente un oggetto Grande o più piccolo. Se il bersaglio è un oggetto enorme o più grande, questo potere ne disintegra una porzione di 3 metri cubi. </p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tech di 7° livello o superiore, il danno aumenta di [[/r 3d6]] per ogni livello di slot superiore al 6°.</p>"
+			"description": "<p>Un'esplosione di energia corrosiva viene emessa da te. Scegli un bersaglio entro il raggio d'azione. </p>\n<p>Una creatura bersaglio di questo potere deve effettuare un tiro salvezza di Destrezza. Se il tiro salvezza viene fallito, il bersaglio subisce [[/r 10d6 + 40]] danni da acido. Se questo danno riduce il bersaglio a 0 punti ferita, esso viene disintegrato. Una creatura distrutta in questo modo non può essere rivitalizzata.</p>\n<p>Questo potere disintegra automaticamente un oggetto Grande o più piccolo. Se il bersaglio è un oggetto enorme o più grande, questo potere ne disintegra una porzione di 3 metri cubi. </p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tech di 7° livello o superiore, il danno aumenta di [[/r 3d6]] per ogni livello di slot superiore al 6°.</p>"
 		},
 		{
 			"id": "Echo Blast",
@@ -269,7 +269,7 @@
 		{
 			"id": "Element of Surprise",
 			"name": "Elemento Sorpresa",
-			"description": "<p>Espelli una carica di sabotaggio contro la creatura che ti ha attaccato. La creatura deve effettuare un tiro salvezza di Destrezza. Subisce [[/r 2d10]] danni da fuoco se fallisce il tiro salvezza, o la metà dei danni se lo supera.</p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tech di 2° livello o superiore, il danno aumenta di [[/r 1d10]] per ogni livello di slot superiore al 1°.</p>"
+			"description": "<p>Espelli una carica di sabotaggio contro la creatura che ti ha attaccato. La creatura deve effettuare un tiro salvezza di Destrezza. Subisce [[/r 2d10]] danni da fuoco se fallisce il tiro salvezza, o la metà dei danni se lo supera.</p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tech di 2° livello o superiore, il danno aumenta di [[/r 1d10]] per ogni livello di slot superiore al 1°.</p>"
 		},
 		{
 			"id": "Elemental Accelerant",
@@ -388,8 +388,8 @@
 		},
 		{
 			"id": "Greater Explosion",
-			"name": "Greater Explosion",
-			"description": "<p>You expell a massive explosion at a point within range. Each creature in a 40-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes [[/r 40d6]] fire damage and is knocked prone on a failed save, or half as much damage on a successful one but remain standing.</p>\n<p>The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.</p>"
+			"name": "Esplosione Maggiore",
+			"description": "<p>Espelli un'enorme esplosione in un punto entro il raggio d'azione. Ogni creatura in una sfera di 40 piedi centrata su quel punto deve effettuare un tiro salvezza di Destrezza. Un bersaglio subisce [[/r 40d6]] danni da fuoco e viene messo a terra se fallisce il tiro salvezza, oppure subisce la metà dei danni se riesce, ma rimane in piedi.</p>\n<p>Il fuoco si propaga intorno agli angoli. Infiamma gli oggetti infiammabili nell'area che non sono stati indossati o trasportati.</p>"
 		},
 		{
 			"id": "Greater Hologram",
@@ -404,7 +404,7 @@
 		{
 			"id": "Greater Sabotage Charges",
 			"name": "Cariche di Sabotaggio Migliori",
-			"description": "<p>You create six medium sabotage charges that last for the power's duration. When you cast the power, and as a bonus action on subsequent turns, you can hurl up to two of the charges to points you choose within 120 feet. Each charge explodes if it reaches the point or hits a solid surface. Each creature within 10 feet of the explosion must make a Dexterity save. The explosion deals [[/r 4d6]] fire damage on a failure, or half damage on a success.</p>\n<p><strong><em>Overcharge Tech.</em></strong> The number of charges created increases by two for each slot level above 7th.</p>"
+			"description": "<p>You create six medium sabotage charges that last for the power's duration. When you cast the power, and as a bonus action on subsequent turns, you can hurl up to two of the charges to points you choose within 120 feet. Each charge explodes if it reaches the point or hits a solid surface. Each creature within 10 feet of the explosion must make a Dexterity save. The explosion deals [[/r 4d6]] fire damage on a failure, or half damage on a success.</p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> The number of charges created increases by two for each slot level above 7th.</p>"
 		},
 		{
 			"id": "Greater Salvo",
@@ -434,7 +434,7 @@
 		{
 			"id": "Hold Droid",
 			"name": "Ferma Droide",
-			"description": "<p>Emetti un dardo paralizzante contro un droide o un costrutto che puoi vedere nel raggio d'azione. Il bersaglio deve riuscire in un tiro salvezza di Costituzione o rimanere paralizzato per tutta la durata. Alla fine di ogni suo turno, il bersaglio può effettuare un altro tiro salvezza di Costituzione. In caso di successo, il potere termina sul bersaglio.</p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tecnologico di 3° livello o superiore, puoi bersagliare un droide o un costrutto in più per ogni livello di slot superiore al 2°. I bersagli devono trovarsi entro 30 piedi l'uno dall'altro quando li bersagli.</p>"
+			"description": "<p>Emetti un dardo paralizzante contro un droide o un costrutto che puoi vedere nel raggio d'azione. Il bersaglio deve riuscire in un tiro salvezza di Costituzione o rimanere paralizzato per tutta la durata. Alla fine di ogni suo turno, il bersaglio può effettuare un altro tiro salvezza di Costituzione. In caso di successo, il potere termina sul bersaglio.</p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tecnologico di 3° livello o superiore, puoi bersagliare un droide o un costrutto in più per ogni livello di slot superiore al 2°. I bersagli devono trovarsi entro 30 piedi l'uno dall'altro quando li bersagli.</p>"
 		},
 		{
 			"id": "Holding Cell",
@@ -504,7 +504,7 @@
 		{
 			"id": "Ionic Bond",
 			"name": "Legame Ionico",
-			"description": "<p>Un fascio di energia ionica si lancia verso una creatura a portata, formando una linea continua tra te e il bersaglio. Effettua un attacco tecnico a distanza contro quella creatura. Se viene colpito, il bersaglio subisce [[/r 1d8]] danni da ioni, e in ogni tuo turno per la durata, puoi usare un'azione bonus per infliggere automaticamente [[/r 1d8]] danni da ioni al bersaglio. Il potere termina se usi la tua azione bonus per fare qualcos'altro. Il potere termina anche se il bersaglio si trova fuori dal raggio d'azione del potere o se ha copertura totale da te.</p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tech di 2° livello o superiore, il danno iniziale aumenta di [[/r 1d8]] per ogni livello di slot superiore al 1°.</p>"
+			"description": "<p>Un fascio di energia ionica si lancia verso una creatura a portata, formando una linea continua tra te e il bersaglio. Effettua un attacco tecnico a distanza contro quella creatura. Se viene colpito, il bersaglio subisce [[/r 1d8]] danni da ioni, e in ogni tuo turno per la durata, puoi usare un'azione bonus per infliggere automaticamente [[/r 1d8]] danni da ioni al bersaglio. Il potere termina se usi la tua azione bonus per fare qualcos'altro. Il potere termina anche se il bersaglio si trova fuori dal raggio d'azione del potere o se ha copertura totale da te.</p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tech di 2° livello o superiore, il danno iniziale aumenta di [[/r 1d8]] per ogni livello di slot superiore al 1°.</p>"
 		},
 		{
 			"id": "Ionic Strike",
@@ -574,7 +574,7 @@
 		{
 			"id": "Mass Repair Droid",
 			"name": "Riparazione Droidi di massa",
-			"description": "<p>Scegli fino a sei droidi o costrutti in una sfera di 30 piedi di raggio centrata su un punto. Ogni bersaglio recupera punti ferita pari a [[/r 3d8]] + il tuo modificatore di abilità di techcasting. Questo potere ha effetto solo su droidi e costrutti.</p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tecnologico di 6° livello o superiore, la guarigione aumenta di [[/r 1d8]] per ogni livello di slot superiore al 5°.</p>"
+			"description": "<p>Scegli fino a sei droidi o costrutti in una sfera di 30 piedi di raggio centrata su un punto. Ogni bersaglio recupera punti ferita pari a [[/r 3d8]] + il tuo modificatore di abilità di techcasting. Questo potere ha effetto solo su droidi e costrutti.</p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tecnologico di 6° livello o superiore, la guarigione aumenta di [[/r 1d8]] per ogni livello di slot superiore al 5°.</p>"
 		},
 		{
 			"id": "Mending",
@@ -784,7 +784,7 @@
 		{
 			"id": "Scrambling Barrier",
 			"name": "Scompiglia Barriera",
-			"description": "<p>Una barriera immobile e debolmente scintillante nasce in un raggio di 3 metri intorno a te e rimane per tutta la sua durata.</p>\n<p>Qualunque potere tecnologico di 5° livello o inferiore lanciato dall'esterno della barriera non può influenzare le creature o gli oggetti al suo interno, anche se il potere viene lanciato utilizzando uno slot tecnologico di livello superiore. Un tale potere può bersagliare creature e oggetti all'interno della barriera, ma il potere non ha effetto su di essi. Allo stesso modo, l'area all'interno della barriera è esclusa dalle aree colpite da tali poteri.</p>\n<p><strong><em>Overcharge Tech.</em></strong> Quando si lancia questo potere usando uno slot tech di 7° livello o superiore, la barriera blocca i poteri di un livello superiore per ogni livello di slot superiore al 6°.</p>"
+			"description": "<p>Una barriera immobile e debolmente scintillante nasce in un raggio di 3 metri intorno a te e rimane per tutta la sua durata.</p>\n<p>Qualunque potere tecnologico di 5° livello o inferiore lanciato dall'esterno della barriera non può influenzare le creature o gli oggetti al suo interno, anche se il potere viene lanciato utilizzando uno slot tecnologico di livello superiore. Un tale potere può bersagliare creature e oggetti all'interno della barriera, ma il potere non ha effetto su di essi. Allo stesso modo, l'area all'interno della barriera è esclusa dalle aree colpite da tali poteri.</p>\n<p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando si lancia questo potere usando uno slot tech di 7° livello o superiore, la barriera blocca i poteri di un livello superiore per ogni livello di slot superiore al 6°.</p>"
 		},
 		{
 			"id": "Scrambling Field",
@@ -889,7 +889,7 @@
 		{
 			"id": "Squad Shield",
 			"name": "Scudo di Squadra",
-			"description": "<p>Di fronte al pericolo, crei una barriera che protegge te e chi ti circonda. Appare una sfera di protezione debolmente incandescente con un raggio di 3 metri. Qualsiasi potere tecnologico (o potere di forza che infligge energia o danni da fulmine) di 7° livello o inferiore lanciato dall'esterno della barriera non può influenzare le creature o gli oggetti al suo interno, anche se il potere viene lanciato utilizzando uno slot tecnologico di livello superiore. Un tale potere può bersagliare creature e oggetti all'interno della barriera, ma il potere non ha effetto su di essi. Allo stesso modo, l'area all'interno della barriera è esclusa dalle aree influenzate da tali poteri.</p>\n<p> Inoltre, i pericoli dei seguenti tipi non possono fisicamente attraversare la barriera o influenzare qualsiasi cosa al suo interno.</p>\n<ul><li>proiettili fisici o di energia.</li>\n<li>Un effetto specifico, come l'esplosione di un detonatore termico. </li>\n<li>Un pericolo ambientale, come la caduta di rocce o una colata di lava.</li>\n</ul><p><strong><em>Overcharge Tech.</em></strong> Quando lanci questo potere usando uno slot tech di 8° livello o superiore, il raggio massimo aumenta di 10 piedi per ogni livello di slot superiore al 7°. Inoltre, la barriera blocca i poteri di un livello superiore per ogni livello di slot superiore al 7°.</p>"
+			"description": "<p>Di fronte al pericolo, crei una barriera che protegge te e chi ti circonda. Appare una sfera di protezione debolmente incandescente con un raggio di 3 metri. Qualsiasi potere tecnologico (o potere di forza che infligge energia o danni da fulmine) di 7° livello o inferiore lanciato dall'esterno della barriera non può influenzare le creature o gli oggetti al suo interno, anche se il potere viene lanciato utilizzando uno slot tecnologico di livello superiore. Un tale potere può bersagliare creature e oggetti all'interno della barriera, ma il potere non ha effetto su di essi. Allo stesso modo, l'area all'interno della barriera è esclusa dalle aree influenzate da tali poteri.</p>\n<p> Inoltre, i pericoli dei seguenti tipi non possono fisicamente attraversare la barriera o influenzare qualsiasi cosa al suo interno.</p>\n<ul><li>proiettili fisici o di energia.</li>\n<li>Un effetto specifico, come l'esplosione di un detonatore termico. </li>\n<li>Un pericolo ambientale, come la caduta di rocce o una colata di lava.</li>\n</ul><p><strong><em>Sovraccarica Tecnologia.</em></strong> Quando lanci questo potere usando uno slot tech di 8° livello o superiore, il raggio massimo aumenta di 10 piedi per ogni livello di slot superiore al 7°. Inoltre, la barriera blocca i poteri di un livello superiore per ogni livello di slot superiore al 7°.</p>"
 		},
 		{
 			"id": "Stack the Deck",
