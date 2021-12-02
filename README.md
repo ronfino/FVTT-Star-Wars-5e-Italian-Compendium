@@ -15,5 +15,6 @@ This is a personal project work in progress for Foundry Virtual TableTop about t
 # <h1>Installazione<h1>
 1. Selezionare la categoria Add-on Modules presente nell'applicazione Foundry VTT, cliccare "Install Module" e scaricare il modulo Babele.
 2. Scaricare il modulo libWrapper poiché è un requisito di Babele.
-3. Avviate il vostro mondo e cliccare Configure Settings, dopodiché, selezionare Module Settings e scegliere come percorso per la Directory dei file di Traduzione "/Translations".
-4. Scaricate la traduzione italiana e trascinate la cartella Translations nel percorso C:\Users\user\AppData\Local\FoundryVTT\Data. Fatto!
+3. Avviate il vostro mondo e cliccare "Configure Settings" dalle impostazioni di Foundry, dopodiché, cliccare Module Settings e scegliere il percorso per la Directory dei file di Traduzione che andrete ad installare. Digitate "/Translations".
+4. Scaricate la traduzione italiana e trascinate la cartella Translations nel percorso C:\Users\user\AppData\Local\FoundryVTT\Data.
+5. Sempre dalle impostazioni di Foundry, precisamente su Configure Settings, cliccate "Core Settings" e nella voce "Language Preference" selezionate "Italian". Fatto!
