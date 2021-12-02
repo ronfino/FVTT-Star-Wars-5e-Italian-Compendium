@@ -1,4 +1,4 @@
-# Foundry Virtual TableTop Star Wars 5e Italian Compendium
+Foundry Virtual TableTop Star Wars 5e Italian Compendium
 
 
 # **Explanation/Spiegazione**
