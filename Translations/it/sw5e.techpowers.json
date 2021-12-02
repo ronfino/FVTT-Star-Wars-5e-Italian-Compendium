@@ -323,7 +323,7 @@
 		},
 		{
 			"id": "Extinguish",
-			"name": "Extinguish",
+			"name": "Estinguere",
 			"description": "<p>Spruzzi schiuma di carbonio in un cubo di 5 piedi che parte da un punto entro il raggio d'azione. Le fiamme all'interno dell'area colpita vengono istantaneamente spente e gli oggetti all'interno dell'area colpita non possono essere incendiati per almeno un minuto. Qualsiasi creatura nell'area colpita deve effettuare un tiro salvezza di Costituzione o subire [[/r 1d4]] danni da freddo.</p>\n<p>Quando raggiungi il 5° livello, questo potere può invece prendere di mira un cubo di 3 metri entro il raggio d'azione. Ottieni ulteriori opzioni di aumento delle dimensioni quando raggiungi l'11° livello (cubo di 15 piedi) e il 17° livello (cubo di 20 piedi).</p>"
 		},
 		{
