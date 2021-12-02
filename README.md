@@ -4,12 +4,12 @@
 # **Explanation/Spiegazione**
 
 **ITA**
-Questo è un progetto personale attualmente in sviluppo su Foundry Virtual TableTop riguardante la traduzione italiana del compendio di Star Wars 5e con l'utilizzo del modulo [Babele](https://gitlab.com/riccisi/foundryvtt-babele) sviluppato da Simone Ricciardi. Per sfornare una traduzione migliore uso DeepL per tradurre frasi lunghe, Google Translate per trovare le parole corrette e le Wiki fandom di Star Wars per ottenere maggiori informazioni. 
+Questo è un progetto personale attualmente in sviluppo per Foundry Virtual TableTop riguardante la traduzione italiana del compendio di Star Wars 5e con l'utilizzo del modulo [Babele](https://gitlab.com/riccisi/foundryvtt-babele) sviluppato da Simone Ricciardi. Per sfornare una traduzione migliore uso DeepL per tradurre frasi lunghe, Google Translate per trovare le parole corrette e le Wiki fandom di Star Wars per ottenere maggiori informazioni. 
 
 *Potrei commettere degli errori col passare del tempo, se notate qualcosa ditemelo pure!*
 
 **ENG**
-This is a personal project work in progress on Foundry Virtual TableTop about the italian translation for the Star Wars 5e compendium using the module [Babele](https://gitlab.com/riccisi/foundryvtt-babele) developed by Simone Ricciardi. To make a better translation i use DeepL to translate long phrases, Google Translate to find the right words and Star Wars wiki fandoms to get additional info. 
+This is a personal project work in progress for Foundry Virtual TableTop about the italian translation for the Star Wars 5e compendium using the module [Babele](https://gitlab.com/riccisi/foundryvtt-babele) developed by Simone Ricciardi. To make a better translation i use DeepL to translate long phrases, Google Translate to find the right words and Star Wars wiki fandoms to get additional info. 
 
 
 # <h1>Installazione<h1>
