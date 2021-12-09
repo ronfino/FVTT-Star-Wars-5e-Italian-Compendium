@@ -89,13 +89,13 @@
 		{
 			"id": "Keen",
 			"name": "Penetrante",
-			"description": "<h3>Penetrante</h3>\n<p>Quando effettui un attacco con un'arma con la proprietà keen, la portata del colpo critico aumenta di una quantità pari al numero keen.</p>"
+			"description": "<h3>Penetrante</h3>\n<p>Quando effettui un attacco con un'arma con la proprietà penetrante, la portata del colpo critico aumenta di una quantità pari al numero penetrante.</p>"
 		},
 		{
 			"id": "Light",
 			"name": "Leggero",
 			"description": "<h3>Leggero</h3>\n<p>Un'arma leggera è piccola e facile da maneggiare, il che la rende ideale per l'uso in combattimenti A Due Mani o A Due Armi. Vedi le regole per il combattimento A Due Mani e A Due Armi nel Capitolo 9.</p>"
-		}
+		},
 		{
 			"id": "Luminous",
 			"name": "Luminoso",
