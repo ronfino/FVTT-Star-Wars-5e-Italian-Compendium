@@ -3,7 +3,7 @@
 	"entries": [
 		{
 			"id": "8pZDUMhGKgIQQkqc",
-			"name": "Resilienza aberrante",
+			"name": "Resilienza Aberrante",
 			"description": "<p><em><strong>Percorso dell'Etereo Realità:</strong> 3° livello</em></p>\n<p>Apprendi il potere di forza <em>resistenza</em>, che non conta nel totale dei tuoi poteri conosciuti. Inoltre, puoi utilizzare le opzioni Deviazione e Rallentamento del tempo del potere di forza quando lo lanci come azione. Infine, questo potere non richiede più concentrazione per te quando ti rivolgi a te stesso con esso.</p>"
 		},
 		{
@@ -13,7 +13,7 @@
 		},
 		{
 			"id": "iLCkA5gUSDiD2ZAy",
-			"name": "Assorbire i danni",
+			"name": "Assorbire i Danni",
 			"description": "<p><em><strong>Ordine Matukai:</strong> 11° livello</em></p>\n<p>Impari a incanalare la Forza nella tua pelle e nelle tue ossa, migliorando notevolmente la tua durata. Puoi usare un'azione bonus per incanalare la Forza in tutto il tuo corpo. Fino all'inizio del tuo prossimo turno, avrai resistenza ai danni cinetici ed energetici.</p>n<p>Puoi usare questa caratteristica un numero di volte pari al tuo modificatore di Saggezza o Carisma (a tua scelta, minimo una volta). Riacquisti tutti gli utilizzi effettuati quando finisci un riposo lungo.</p>"
 		},
 		{
@@ -368,7 +368,7 @@
 		},
 		{
 			"id": "WY9QOMyGONH2HRGp",
-			"name": "Beato guaritore",
+			"name": "Beato Guaritore",
 			"description": "<p><em><strong>Via del saggio:</strong> 10° livello</em></p>\n<p>I poteri di guarigione che lanci sugli altri guariscono anche te. Quando lanci un potere di forza che ripristina i punti ferita di una creatura diversa da te, recuperi punti ferita pari a 2 + il livello del potere.</p>"
 		},
 		{
